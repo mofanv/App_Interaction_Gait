@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowSwipeToDismiss">false</item>
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+    </style>
+
+    <style name="AnimationActivity" mce_bogus="1" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/base_slide_bottom_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/base_slide_up_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/base_slide_up_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/base_slide_bottom_out</item>
+    </style>
+
+</resources>

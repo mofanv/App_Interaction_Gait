@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <Space
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView4"
+        android:background="@drawable/voice"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="正在录音..."
+        android:textSize="20dp"
+        android:id="@+id/textView_final"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp" />
+
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:text="完成"
+        android:id="@+id/button002"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick"
+        android:textSize="20dp"
+        android:visibility="visible" />
+
+</LinearLayout>

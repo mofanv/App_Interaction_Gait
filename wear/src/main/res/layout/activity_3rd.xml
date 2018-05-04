@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout1" >
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout2" >
+
+        <ImageButton
+            android:id="@+id/button1_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin"
+            android:layout_gravity="bottom" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout3" >
+
+        <ImageButton
+            android:id="@+id/button2_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin"
+            android:layout_gravity="bottom" />
+
+        <ImageButton
+            android:id="@+id/button3_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin"
+            android:layout_gravity="bottom" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout4" >
+
+        <ImageButton
+            android:id="@+id/button4_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button5_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button6_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout5" >
+
+        <ImageButton
+            android:id="@+id/button7_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button8_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button9_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button10_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout6" >
+
+        <ImageButton
+            android:id="@+id/button11_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button12_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button13_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout7" >
+
+        <ImageButton
+            android:id="@+id/button14_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button15_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button16_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button17_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout8" >
+
+        <ImageButton
+            android:id="@+id/button18_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button19_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button20_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout9" >
+
+        <ImageButton
+            android:id="@+id/button21_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button22_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button23_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button24_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout10" >
+
+        <ImageButton
+            android:id="@+id/button25_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button26_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button27_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout11" >
+
+        <ImageButton
+            android:id="@+id/button28_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button29_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button30_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button31_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout12" >
+
+        <ImageButton
+            android:id="@+id/button32_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button33_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+
+        <ImageButton
+            android:id="@+id/button34_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout13" >
+
+        <ImageButton
+            android:id="@+id/button35_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin"
+            android:layout_gravity="bottom" />
+
+        <ImageButton
+            android:id="@+id/button36_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin"
+            android:layout_gravity="bottom" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout14" >
+
+        <ImageButton
+            android:id="@+id/button37_3"
+            android:text=""
+            android:visibility="invisible"
+            android:layout_width="@dimen/targetSize"
+            android:layout_height="@dimen/targetSize"
+            android:background="@drawable/target"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="@dimen/targetMargin"
+            android:layout_marginRight="@dimen/targetMargin"
+            android:layout_gravity="bottom" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:id="@+id/linearLayout15" >
+
+    </LinearLayout>
+
+</LinearLayout>
+
+

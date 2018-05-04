@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="targetSize">15dp</dimen>
+    <dimen name="targetMargin">18.48dp</dimen>
+    // 根号三 = 1.732
+    // 比值 = 根号3-0.5 = 1.232
+</resources>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-4a5e3ba8aea748c90d36c78091f2eb2f5b057c68.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-8cf042329fa0e1df72359cfdcbf03adfadf14e3a.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-e4376c6b46b68064a37bbbc85b6cf4d397bfff87.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/exploded-aar/play-services-wearable-standalone-7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e007f7e5b901d674b37cebe215c0fbfb8218f05f">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/pre-dexed/debug/classes-1ce8168c8631129d4f0220de5a817dc1a7f76287.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-237f784ffe1efdc49b0ea6ea8e9c481714b01d44.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-0f06dd3c189525cad95028ff467f4ebbe791f503.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-7646f2953d0bc6ebe428a8a2eecd8515c59ad060.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-53a0ec0fa673bbc81e2922f99455e1222c91f52d.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-1adf490458bbccf2832006a6a8f2b439a287f6f9.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-a90473e4217891593db5309d8cd5f03efe747458.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-7f95ceb41473b881c29e3193c88e5dab63bf0855.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-d570f2f9117e6bf40ddabcd08d22d9792de7eaf0.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-f92d207cfe017e01c057c3aedceb75e2f53665dd.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/pre-dexed/debug/classes-54e845cc3cbbca8ababdde3235fe662efc4ac415.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/pre-dexed/debug/classes-abdf107d86568e262b577ae04bd9a56aff252c49.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-e7ab9dd23e101139231409436d8aef777a6d1261.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-c719b14a343e653632ee902ee53fb10396582fe8.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-2ab134233fea6ac3760f5d9e501d1e5cab0db357.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-ec65f77a665d24f6807ab592d1efd35466d1c923.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-38ec37d144acee2d2d600cf170c2ce9d01a36291.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-0f0054bfc30e85d305217d70c0fa41a22ce7a63b.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-029de6111b28266a52413a572aba3d39713f87d1.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-b0f51a3514abb4d84f0f953b91b6b6f714cbab9a.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-56ff43a80d29a44cb274083cb10f54baa45ed15b.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/pre-dexed/debug/classes-2cb9ce4dc1d6aff1207ab51c1c9f5019a1e96466.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-c64128d6733f833be12773004ad504d17c19f182.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/mobile/build/intermediates/pre-dexed/debug/classes-242aa3b09c4e62ad3f7167c0a607ab7c9b1f32ff.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-8c6495988845ee85565b5ea97e93d2394510e91e.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-a206aa93a61c8d6aedb0d0bf44a0913e9e98530b.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-97040ca17d02a48ca1cd0598ff3ddd7f0a7ff09c.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-6c612d78ecb1e7f325ba0f4c887931eb87622f79.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-2490c9a88d69cfb5d8be0621535060cbf73ba34e.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-d1c250b9b39f34359240e27966c1d71d705d3a4f.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/mofan/Documents/workspace/MotionAndOperation_new/wear/build/intermediates/pre-dexed/debug/classes-6b9ba04e32253850f7730b44ca6aaccace9572bd.jar" />
+    </item>
+
+</items>
